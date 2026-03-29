@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Netal Gupta 👋
 
 B.Tech CSBS student at KJ Somaiya School of Engineering (SGPA: 9.8)  
