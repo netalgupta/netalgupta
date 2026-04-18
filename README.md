@@ -38,7 +38,7 @@ Focused on building real-world, AI-driven systems and scalable full-stack applic
 
 | Hackathon | Result |
 |---|---|
-| AfterMath Hackathon | 🥇 Top 12 Finalists out of 250+ teams |
+| AfterMath Hackathon | 🥇 Top 12 Finalists out of 36/250+ teams |
 | Nexathon | 🏅 Top 6 |
 | Smart India Hackathon | 🏅 Advanced to Round 2 |
 | GDG Hackathon | 🏅 Built & presented AI CP Tracker |
