@@ -8,7 +8,7 @@ Focused on building real-world, AI-driven systems and scalable applications.
 ## 🚀 Projects
 
 ### 🧠 SaathiCare — AI-powered Alzheimer’s Companion Platform
-🔗 Live: https://snack-alzheimer.vercel.app/
+🔗 Live: https://snack-alzheimer-production.up.railway.app/
 
 - Built a voice-first AI companion with multilingual interaction (EN/HI/MR) using LLM-based context grounding  
 - Designed a QR-based emergency system with live location tracking and caregiver alerts  
