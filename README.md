@@ -49,7 +49,7 @@ Focused on building real-world, AI-driven systems and scalable full-stack applic
 
 **Languages:** JavaScript · Python · Java · C · HTML/CSS · SQL
 
-**Frameworks & Libraries:** Next.js · TypeScript · Firebase · Gemini API · Leaflet · Zustand · Web Speech API
+**Frameworks & Libraries:** Next.js · TypeScript · Firebase · Gemini API
 
 **Databases & Tools:** PostgreSQL · MySQL · SQLite · GitHub · VS Code
 
