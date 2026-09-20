@@ -61,28 +61,6 @@ fun_fact: Also paints, designs event branding, and edits reels on the side 🎨
 <tr>
 <td width="50%" valign="top">
 
-#### 👗 TrueFit AI
-**Virtual Try-On & Fit-Intelligence ML System**
-*ML Internship @ Inhouse*
-
-- Building garment-to-body mapping models for realistic virtual apparel fitting
-- Image synthesis pipeline for real-time try-on rendering
-- Focused on fit accuracy over generic size-chart guessing
-
-`Python` `Computer Vision` `Image Synthesis` `ML Pipelines`
-
-</td>
-<td width="50%" valign="top">
-
-#### 💻 AI Competitive Programming Tracker
-🔗 [Live Demo](https://cptracker-gdg.vercel.app/) · *GDG Hackathon — Top 6*
-
-- AI evaluation beyond pass/fail — structured feedback on logic & edge cases
-- Interactive chatbot for follow-up questions on submitted solutions
-- Real-time leaderboard + Google Auth onboarding
-
-`Firebase` `Google Auth` `Gemini API` `Full-Stack`
-
 </td>
 </tr>
 </table>
