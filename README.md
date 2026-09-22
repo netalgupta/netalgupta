@@ -1,107 +1,127 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a3fa0,50:8b5fd6,100:00d4c8&height=230&section=header&text=Hi,%20I'm%20Netal%20Gupta&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Building%20AI-powered%20products%20that%20actually%20ship&descAlignY=55&descSize=18" width="100%"/>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=netalgupta&label=Profile%20Views&color=6a3fa0&style=flat-square" />
-<img src="https://img.shields.io/badge/B.Tech-CSBS-6a3fa0?style=flat-square" />
-<img src="https://img.shields.io/badge/Open_to-Internships%20%26%20Roles-00d4c8?style=flat-square" />
+# NETAL GUPTA
+
+<sub>B.TECH · COMPUTER SCIENCE & BUSINESS SYSTEMS · KJ SOMAIYA</sub>
+
+<br/>
+
+*Building AI-powered products that actually ship.*
+
+<br/>
+
+──────  ──────  ──────
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&pause=1200&color=111111&center=true&vCenter=true&width=600&lines=Full-Stack+%2B+Applied+AI%2FML+Engineer;3x+National+Hackathon+Finalist;Currently+Building+Virtual+Try-On+ML+%40+Inhouse" alt="Typing SVG" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=6A3FA0&center=true&vCenter=true&width=620&lines=B.Tech+CSBS+%40+KJ+Somaiya+School+of+Engineering;Full-Stack+%2B+Applied+AI%2FML+Engineer;Turning+ideas+into+deployed%2C+tested+products;3x+National+Hackathon+Finalist;Currently+building+virtual+try-on+ML+%40+Inhouse" alt="Typing SVG" />
+<a href="https://linkedin.com/in/netalgupta"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white"></a>
+<a href="mailto:netal.gupta@somaiya.edu"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/netalgupta"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white"></a>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/thunder.gif" width="100%">
+<br/>
 
-### 🧭 Quick Facts
+## 01 — Quick Facts
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-\`\`\`yaml
-🎓 education: B.Tech CSBS, KJ Somaiya (Sem 5)
-🧪 currently: ML Intern @ Inhouse
-             — virtual try-on & fit-intelligence
-🎨 creative_lead: Creative Head, KJSSE ACM
-🏆 hackathons: SIH · AfterMath · Nexathon · GDG
-🎯 open_to: SWE / AI-ML / Product Eng roles
-\`\`\`
+**Education**
+B.Tech CSBS, KJ Somaiya · Sem 5
+
+**Currently**
+ML Intern @ Inhouse — virtual try-on & fit-intelligence models
+
+**Creative Lead**
+Creative Head, KJSSE ACM Student Chapter
+
+**Hackathons**
+SIH · AfterMath · Nexathon · GDG
+
+**Open to**
+SWE / AI-ML / Product Engineering roles
 
 </td>
 <td width="50%" valign="top">
 
-> [!TIP]
-> **🔭 Currently working on:** TrueFit AI — garment-to-body mapping for realistic virtual try-on
->
-> **🌱 Currently learning:** Deep learning fundamentals (CNNs, RNNs) + advanced SQL
->
-> **💬 Ask me about:** Next.js, LLM integration, or how to actually explain your own project in interviews
->
-> **⚡ Fun fact:** Also paints, designs event branding, and edits reels on the side
+<blockquote>
+
+**🔭 Working on**
+TrueFit AI — garment-to-body mapping for realistic virtual try-on
+
+**🌱 Learning**
+Deep learning fundamentals (CNNs, RNNs) + advanced SQL
+
+**💬 Ask me about**
+Next.js, LLM integration, or explaining your own project in interviews
+
+**⚡ Off-screen**
+Painting, event branding, reel editing
+
+</blockquote>
 
 </td>
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/thunder.gif" width="100%">
+<br/>
 
-### 🚀 Featured Projects
+## 02 — Featured Projects
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-#### 🌊 VARUNA
+### 🌊 VARUNA
 **Ocean & Marine Biodiversity Data Platform**
-🥈 *Smart India Hackathon — 2nd of 90 teams*
+`Smart India Hackathon — 2nd of 90 teams`
 
-- WebGL Deck.gl ocean map rendering **3,800+ ARGO float positions** with live depth-filtering
-- Live CMLRE data ingestion, replacing all mock data platform-wide
-- Proactive anomaly/early-warning center for marine heatwave & hypoxia alerts
+WebGL ocean map rendering 3,800+ ARGO float positions with live depth-filtering. Live CMLRE data ingestion replacing all mock data, plus a proactive anomaly/early-warning center for marine heatwave & hypoxia alerts.
 
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js) ![Deck.gl](https://img.shields.io/badge/-Deck.gl-8A2BE2?style=flat-square) ![Mapbox](https://img.shields.io/badge/-Mapbox_GL-4264FB?style=flat-square&logo=mapbox) ![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=flat-square&logo=fastapi) ![Postgres](https://img.shields.io/badge/-PostGIS-336791?style=flat-square&logo=postgresql)
+<sub>Next.js 14 · Deck.gl · Mapbox GL · FastAPI · PostgreSQL/PostGIS</sub>
 
 </td>
 <td width="50%" valign="top">
 
-#### 🧠 SaathiCare
+### 🧠 SaathiCare
 **AI-Powered Alzheimer's Companion Platform**
-🔗 **[Live Demo →](https://snack-alzheimer-1.onrender.com/)**
+[`View Live →`](https://snack-alzheimer-1.onrender.com/)
 
-- Voice-first multilingual AI companion (EN/HI/MR) with LLM context grounding
-- QR-based emergency system with live GPS + real-time caregiver alerts
-- Tri-role architecture (Patient–Caretaker–Guardian), ~4–5s AI response latency
+Voice-first multilingual AI companion (EN/HI/MR) with LLM context grounding. QR-based emergency system with live GPS + caregiver alerts, tri-role architecture, ~4–5s AI response latency.
 
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Gemini](https://img.shields.io/badge/-Gemini_API-4285F4?style=flat-square&logo=googlegemini&logoColor=white) ![JWT](https://img.shields.io/badge/-JWT-000?style=flat-square&logo=jsonwebtokens)
+<sub>Next.js · TypeScript · Gemini API · SQLite · JWT · Web Speech API</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### 👗 TrueFit AI
+### 👗 TrueFit AI
 **Virtual Try-On & Fit-Intelligence ML System**
-🏢 *ML Internship @ Inhouse — ongoing*
+`ML Internship @ Inhouse — ongoing`
 
-- Building garment-to-body mapping models for realistic virtual apparel fitting
-- Image synthesis pipeline for real-time try-on rendering
-- Focused on fit accuracy over generic size-chart guessing
+Building garment-to-body mapping models and an image synthesis pipeline for real-time virtual apparel fitting — focused on genuine fit accuracy over generic size charts.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![CV](https://img.shields.io/badge/-Computer_Vision-FF6F00?style=flat-square) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+<sub>Python · Computer Vision · PyTorch · Image Synthesis</sub>
 
 </td>
 <td width="50%" valign="top">
 
-#### 💻 AI Competitive Programming Tracker
-🔗 **[Live Demo →](https://cptracker-gdg.vercel.app/)** · 🏅 *GDG Hackathon — Top 6*
+### 💻 AI Competitive Programming Tracker
+[`View Live →`](https://cptracker-gdg.vercel.app/)
+`GDG Hackathon — Top 6`
 
-- AI evaluation beyond pass/fail — structured feedback on logic & edge cases
-- Interactive chatbot for follow-up questions on submitted solutions
-- Real-time leaderboard + Google Auth onboarding
+AI evaluation beyond pass/fail — structured feedback on logic and edge cases, an interactive chatbot for follow-ups, a real-time leaderboard, and Google Auth onboarding.
 
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Gemini](https://img.shields.io/badge/-Gemini_API-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+<sub>Firebase · Google Auth · Gemini API · Full-Stack</sub>
 
 </td>
 </tr>
@@ -109,103 +129,112 @@
 
 <div align="center"><sub>More builds → <a href="https://github.com/netalgupta?tab=repositories">full repository list</a></sub></div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/thunder.gif" width="100%">
+<br/>
 
-### 🏆 Hackathons & Recognition
+## 03 — Hackathons & Recognition
 
 <div align="center">
 
 | Event | Result | Project |
 |:--|:--:|:--|
-| Smart India Hackathon (Internal Round) | 🥈 **2nd of 90 teams** | VARUNA |
-| AfterMath Hackathon | 🥇 **Top 12** of 36/250+ teams | SaathiCare |
-| Nexathon | 🏅 **Top 6** | HackTrack |
-| GDG Hackathon | 🏅 **Top 6** | AI CP Tracker |
+| Smart India Hackathon (Internal Round) | 2nd of 90 teams | VARUNA |
+| AfterMath Hackathon | Top 12 of 36/250+ teams | SaathiCare |
+| Nexathon | Top 6 | HackTrack |
+| GDG Hackathon | Top 6 | AI CP Tracker |
 
 </div>
 
-### 📜 Certifications
+<br/>
+
+## 04 — Certifications
 
 <div align="center">
 
-![Gemini](https://img.shields.io/badge/Google-Gemini_Certified_Student-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Walmart](https://img.shields.io/badge/Walmart_Global_Tech-Advanced_SWE_(Forage)-0071CE?style=for-the-badge&logo=walmart&logoColor=white)
-![Deloitte](https://img.shields.io/badge/Deloitte-Tech_Job_Simulation-86BC25?style=for-the-badge&logo=deloitte&logoColor=white)
+<img src="https://img.shields.io/badge/Google-Gemini_Certified_Student-000000?style=flat-square&logo=google&logoColor=white">
+<img src="https://img.shields.io/badge/Walmart_Global_Tech-Advanced_SWE_(Forage)-000000?style=flat-square&logo=walmart&logoColor=white">
+<img src="https://img.shields.io/badge/Deloitte-Tech_Job_Simulation-000000?style=flat-square&logo=deloitte&logoColor=white">
 
 </div>
 
-### 🎨 Beyond Code — ACM Creative Head
+<br/>
 
-> [!NOTE]
-> Designed and delivered merchandise + a unified visual identity for the entire council · Produced short-form Instagram content driving **6K–7K+ views/reel** · Mentored the second-year creative cohort on execution quality
+## 05 — Beyond Code
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/thunder.gif" width="100%">
+<blockquote>
 
-### 🛠️ Tech Stack
+Creative Head at KJSSE ACM — designed merchandise and a unified visual identity for the entire council, produced short-form Instagram content averaging **6K–7K+ views per reel**, and mentored the second-year creative cohort on execution quality.
 
-<div align="center">
+</blockquote>
 
-**Languages**
-<img src="https://skillicons.dev/icons?i=py,java,c,js,ts,dart,html,css,r" />
+<br/>
 
-**Frontend & Frameworks**
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,bootstrap" />
-
-**Backend & Databases**
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,sqlite,mysql,firebase" />
-
-**AI / ML**
-<img src="https://skillicons.dev/icons?i=py,sklearn,pytorch,opencv" />
-<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=googlegemini&logoColor=white"> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
-
-**Cloud & Deployment**
-<img src="https://skillicons.dev/icons?i=aws,gcp,vercel,netlify,git,github,postman,selenium" />
-
-**Design**
-<img src="https://skillicons.dev/icons?i=figma,ps,ae,canva" />
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/thunder.gif" width="100%">
-
-### 📊 GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=netalgupta&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=00d4c8&icon_color=ffd166" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netalgupta&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d4c8" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=netalgupta&theme=radical&hide_border=true&background=0D1117&ring=00d4c8&fire=ffd166" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=netalgupta&theme=react-dark&hide_border=true&bg_color=0D1117&color=00d4c8&line=8b5fd6&point=ffd166" width="95%"/>
-</div>
+## 06 — Tech Stack
 
 <div align="center">
 
-<!-- snake animation — see setup note below -->
-<img src="https://raw.githubusercontent.com/netalgupta/netalgupta/output/github-contribution-grid-snake-dark.svg" width="95%">
-
-</div>
-
-<div align="center">
-<sub>🐍 Snake animation needs a one-time GitHub Action setup — instructions below.</sub>
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/thunder.gif" width="100%">
-
-<div align="center">
-
-### 📫 Let's Connect
-
-<a href="https://linkedin.com/in/netalgupta"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:netal.gupta@somaiya.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://github.com/netalgupta"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"></a>
+<sub>LANGUAGES</sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=py,java,c,js,ts,dart,html,css,r&theme=light" />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4c8,50:8b5fd6,100:6a3fa0&height=110&section=footer" width="100%"/>
+<sub>FRONTEND & FRAMEWORKS</sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,bootstrap&theme=light" />
+
+<br/><br/>
+
+<sub>BACKEND & DATABASES</sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,sqlite,mysql,firebase&theme=light" />
+
+<br/><br/>
+
+<sub>AI / ML</sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=py,sklearn,pytorch,opencv&theme=light" />
+
+<br/><br/>
+
+<sub>CLOUD & DEPLOYMENT</sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,vercel,netlify,git,github,postman,selenium&theme=light" />
+
+<br/><br/>
+
+<sub>DESIGN</sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=figma,ps,ae,canva&theme=light" />
+
+</div>
+
+<br/>
+
+## 07 — GitHub Stats
+
+<div align="center">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=netalgupta&show_icons=true&hide_border=true&theme=default&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netalgupta&layout=compact&hide_border=true&theme=default" />
+</div>
+
+<br/>
+
+──────  ──────  ──────
+
+<div align="center">
+
+<br/>
+
+**Let's connect**
+
+<a href="https://linkedin.com/in/netalgupta"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white"></a>
+<a href="mailto:netal.gupta@somaiya.edu"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/netalgupta"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white"></a>
+
+<br/><br/>
+
+<sub>Thanks for stopping by.</sub>
+
+<br/>
 
 </div>
