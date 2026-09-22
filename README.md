@@ -226,21 +226,6 @@ Creative Head at KJSSE ACM — designed merchandise and a unified visual identit
 
 <br/>
 
-<img src="https://img.shields.io/badge/07-D0E8F0?style=flat-square&labelColor=000000"> **GitHub Stats**
-
-<div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=netalgupta&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B7765&icon_color=87BA77&text_color=C5C6C7&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netalgupta&layout=compact&hide_border=true&bg_color=00000000&title_color=8B7765&text_color=C5C6C7" />
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D9C2A3,25:8B7765,50:D0E8F0,75:C5C6C7,100:87BA77&height=6&width=1000" width="100%"/>
-
-<div align="center">
-
-<br/>
-
 **Let's connect**
 
 <a href="https://linkedin.com/in/netalgupta"><img src="https://img.shields.io/badge/LinkedIn-8B7765?style=flat-square&logo=linkedin&logoColor=white"></a>
