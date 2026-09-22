@@ -20,7 +20,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&pause=1200&color=87BA77&center=true&vCenter=true&width=600&lines=Full-Stack+%2B+Applied+AI%2FML+Engineer;National+Hackathon+Finalist;Currently+Building+Virtual+Try-On+ML+%40+Inhouse">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&pause=1200&color=8B7765&center=true&vCenter=true&width=600&lines=Full-Stack+%2B+Applied+AI%2FML+Engineer;3x+National+Hackathon+Finalist;Currently+Building+Virtual+Try-On+ML+%40+Inhouse" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&pause=1200&color=8B7765&center=true&vCenter=true&width=600&lines=Full-Stack+%2B+Applied+AI%2FML+Engineer;National+Hackathon+Finalist;Currently+Building+Virtual+Try-On+ML+%40+Inhouse" alt="Typing SVG">
 </picture>
 
 <br/><br/>
