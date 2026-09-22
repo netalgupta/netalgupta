@@ -14,7 +14,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/3x-Hackathon_Finalist-8B7765?style=flat-square&labelColor=000000"> <img src="https://img.shields.io/badge/2-Live_Deployed_Products-87BA77?style=flat-square&labelColor=000000"> <img src="https://img.shields.io/badge/ACM-Creative_Head-D9C2A3?style=flat-square&labelColor=000000">
+<img src="https://img.shields.io/badge/Hackathon_Finalist-8B7765?style=flat-square&labelColor=000000"> <img src="https://img.shields.io/badge/2-Live_Deployed_Products-87BA77?style=flat-square&labelColor=000000"> <img src="https://img.shields.io/badge/ACM-Creative_Head-D9C2A3?style=flat-square&labelColor=000000">
 
 <br/><br/>
 
