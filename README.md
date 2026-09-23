@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C5C6C7,25:D0E8F0,50:D9C2A3,75:8B7765,100:87BA77&height=6&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E8432F,25:D4FF3D,50:9B5FE0,75:FF7A45,100:000000&height=6&width=1000" width="100%"/>
 
 <br/><br/>
 
@@ -14,26 +14,26 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Hackathon_Finalist-8B7765?style=flat-square&labelColor=000000"> <img src="https://img.shields.io/badge/ACM-Creative_Head-D9C2A3?style=flat-square&labelColor=000000">
+<img src="https://img.shields.io/badge/Hackathon_Finalist-6BAE1A?style=flat&labelColor=000000"> <img src="https://img.shields.io/badge/ACM-Creative_Head-9B5FE0?style=flat&labelColor=000000">
 
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&pause=1200&color=87BA77&center=true&vCenter=true&width=600&lines=Full-Stack+%2B+Applied+AI%2FML+Engineer;National+Hackathon+Finalist;Currently+Building+Virtual+Try-On+ML+%40+Inhouse">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&pause=1200&color=8B7765&center=true&vCenter=true&width=600&lines=Full-Stack+%2B+Applied+AI%2FML+Engineer;National+Hackathon+Finalist;Currently+Building+Virtual+Try-On+ML+%40+Inhouse" alt="Typing SVG">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1200&color=D4FF3D&center=true&vCenter=true&width=600&lines=Full-Stack+%2B+Applied+AI%2FML+Engineer;National+Hackathon+Finalist;Currently+Building+Virtual+Try-On+ML+%40+Inhouse">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1200&color=E8432F&center=true&vCenter=true&width=600&lines=Full-Stack+%2B+Applied+AI%2FML+Engineer;National+Hackathon+Finalist;Currently+Building+Virtual+Try-On+ML+%40+Inhouse" alt="Typing SVG">
 </picture>
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/netalgupta"><img src="https://img.shields.io/badge/LinkedIn-8B7765?style=flat-square&logo=linkedin&logoColor=white"></a>
-<a href="mailto:netal.gupta@somaiya.edu"><img src="https://img.shields.io/badge/Email-87BA77?style=flat-square&logo=gmail&logoColor=white"></a>
-<a href="https://github.com/netalgupta"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white"></a>
+<a href="https://linkedin.com/in/netalgupta"><img src="https://img.shields.io/badge/LinkedIn-9B5FE0?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:netal.gupta@somaiya.edu"><img src="https://img.shields.io/badge/Email-6BAE1A?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/netalgupta"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
 
 </div>
 
 <br/>
 
-<img src="https://img.shields.io/badge/01-C5C6C7?style=flat-square&labelColor=000000"> **Quick Facts**
+<img src="https://img.shields.io/badge/01-E8432F?style=flat&labelColor=000000"> **Quick Facts**
 
 <table width="100%">
 <tr>
@@ -79,21 +79,21 @@ Painting, event branding, reel editing
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:87BA77,100:D0E8F0&height=3&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9B5FE0,100:E8432F&height=3&width=1000" width="100%"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/02-D0E8F0?style=flat-square&labelColor=000000"> **Featured Projects**
+<img src="https://img.shields.io/badge/02-9B5FE0?style=flat&labelColor=000000"> **Featured Projects**
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8B7765&height=4&width=480" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=9B5FE0&height=4&width=480" width="100%"/>
 
 ### 🌊 VARUNA
 **Ocean & Marine Biodiversity Data Platform**
-<img src="https://img.shields.io/badge/SIH-2nd_of_90_teams-8B7765?style=flat-square&labelColor=000000">
+<img src="https://img.shields.io/badge/SIH-2nd_of_90_teams-9B5FE0?style=flat&labelColor=000000">
 
 WebGL ocean map rendering 3,800+ ARGO float positions with live depth-filtering. Live CMLRE data ingestion replacing all mock data, plus a proactive anomaly/early-warning center for marine heatwave & hypoxia alerts.
 
@@ -102,11 +102,11 @@ WebGL ocean map rendering 3,800+ ARGO float positions with live depth-filtering.
 </td>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=87BA77&height=4&width=480" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D4FF3D&height=4&width=480" width="100%"/>
 
 ### 🧠 SaathiCare
 **AI-Powered Alzheimer's Companion Platform**
-<img src="https://img.shields.io/badge/Live_Demo-87BA77?style=flat-square&labelColor=000000"> [`→ snack-alzheimer-1.onrender.com`](https://snack-alzheimer-1.onrender.com/)
+<img src="https://img.shields.io/badge/Live_Demo-6BAE1A?style=flat&labelColor=000000"> [`→ snack-alzheimer-1.onrender.com`](https://snack-alzheimer-1.onrender.com/)
 
 Voice-first multilingual AI companion (EN/HI/MR) with LLM context grounding. QR-based emergency system with live GPS + caregiver alerts, tri-role architecture, ~4–5s AI response latency.
 
@@ -117,11 +117,11 @@ Voice-first multilingual AI companion (EN/HI/MR) with LLM context grounding. QR-
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=D9C2A3&height=4&width=480" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF7A45&height=4&width=480" width="100%"/>
 
 ### 👗 TrueFit AI
 **Virtual Try-On & Fit-Intelligence ML System**
-<img src="https://img.shields.io/badge/ML_Internship-Ongoing-D9C2A3?style=flat-square&labelColor=000000">
+<img src="https://img.shields.io/badge/ML_Internship-Ongoing-F2622E?style=flat&labelColor=000000">
 
 Building garment-to-body mapping models and an image synthesis pipeline for real-time virtual apparel fitting — focused on genuine fit accuracy over generic size charts.
 
@@ -130,10 +130,10 @@ Building garment-to-body mapping models and an image synthesis pipeline for real
 </td>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=D0E8F0&height=4&width=480" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E8432F&height=4&width=480" width="100%"/>
 
 ### 💻 AI Competitive Programming Tracker
-<img src="https://img.shields.io/badge/GDG_Hackathon-Top_6-000000?style=flat-square&labelColor=D0E8F0"> [`→ cptracker-gdg.vercel.app`](https://cptracker-gdg.vercel.app/)
+<img src="https://img.shields.io/badge/GDG_Hackathon-Top_6-E8432F?style=flat&labelColor=000000"> [`→ cptracker-gdg.vercel.app`](https://cptracker-gdg.vercel.app/)
 
 AI evaluation beyond pass/fail — structured feedback on logic and edge cases, an interactive chatbot for follow-ups, a real-time leaderboard, and Google Auth onboarding.
 
@@ -147,11 +147,11 @@ AI evaluation beyond pass/fail — structured feedback on logic and edge cases, 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D0E8F0,100:D9C2A3&height=3&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF7A45,100:F2622E&height=3&width=1000" width="100%"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/03-D9C2A3?style=flat-square&labelColor=000000"> **Hackathons & Recognition**
+<img src="https://img.shields.io/badge/03-FF7A45?style=flat&labelColor=000000"> **Hackathons & Recognition**
 
 <div align="center">
 
@@ -166,23 +166,23 @@ AI evaluation beyond pass/fail — structured feedback on logic and edge cases, 
 
 <br/>
 
-<img src="https://img.shields.io/badge/04-8B7765?style=flat-square&labelColor=000000"> **Certifications**
+<img src="https://img.shields.io/badge/04-6BAE1A?style=flat&labelColor=000000"> **Certifications**
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Google-Gemini_Certified_Student-87BA77?style=flat-square&logo=google&logoColor=white">
-<img src="https://img.shields.io/badge/Walmart_Global_Tech-Advanced_SWE_(Forage)-D9C2A3?style=flat-square&logo=walmart&logoColor=black&labelColor=000000">
-<img src="https://img.shields.io/badge/Deloitte-Tech_Job_Simulation-8B7765?style=flat-square&logo=deloitte&logoColor=white">
+<img src="https://img.shields.io/badge/Google-Gemini_Certified_Student-9B5FE0?style=flat&logo=google&logoColor=white">
+<img src="https://img.shields.io/badge/Walmart_Global_Tech-Advanced_SWE_(Forage)-F2622E?style=flat&logo=walmart&logoColor=white">
+<img src="https://img.shields.io/badge/Deloitte-Tech_Job_Simulation-6BAE1A?style=flat&logo=deloitte&logoColor=white">
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D9C2A3,100:87BA77&height=3&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6BAE1A,100:D4FF3D&height=3&width=1000" width="100%"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/05-87BA77?style=flat-square&labelColor=000000"> **Beyond Code**
+<img src="https://img.shields.io/badge/05-D4FF3D?style=flat&labelColor=000000"> **Beyond Code**
 
 <blockquote>
 
@@ -192,7 +192,7 @@ Creative Head at KJSSE ACM — designed merchandise and a unified visual identit
 
 <br/>
 
-<img src="https://img.shields.io/badge/06-C5C6C7?style=flat-square&labelColor=000000"> **Tech Stack**
+<img src="https://img.shields.io/badge/06-000000?style=flat&labelColor=E8432F"> **Tech Stack**
 
 <div align="center">
 
@@ -234,7 +234,7 @@ Creative Head at KJSSE ACM — designed merchandise and a unified visual identit
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:87BA77,25:D0E8F0,50:D9C2A3,75:8B7765,100:C5C6C7&height=6&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,25:E8432F,50:D4FF3D,75:9B5FE0,100:FF7A45&height=6&width=1000" width="100%"/>
 
 <div align="center">
 
@@ -242,8 +242,8 @@ Creative Head at KJSSE ACM — designed merchandise and a unified visual identit
 
 **Let's connect**
 
-<a href="https://linkedin.com/in/netalgupta"><img src="https://img.shields.io/badge/LinkedIn-8B7765?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:netal.gupta@somaiya.edu"><img src="https://img.shields.io/badge/Email-87BA77?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://linkedin.com/in/netalgupta"><img src="https://img.shields.io/badge/LinkedIn-9B5FE0?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:netal.gupta@somaiya.edu"><img src="https://img.shields.io/badge/Email-6BAE1A?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://github.com/netalgupta"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
 
 <br/><br/>
