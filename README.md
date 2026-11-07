@@ -1,16 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:1F2937&height=200&section=header&text=NETAL%20GUPTA&fontSize=56&fontColor=D4FF3D&fontAlignY=40&desc=Full-Stack%20Development%20%E2%80%A2%20Applied%20AI%20%E2%80%A2%20Product%20Engineering&descAlignY=63&descSize=16&descColor=E5E7EB" width="100%" alt="Netal Gupta — Full-stack development, applied AI and product engineering" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:5B21B6,100:0E7490&height=200&section=header&text=NETAL%20GUPTA&fontSize=56&fontColor=FFFFFF&fontAlignY=40&desc=Full-Stack%20Development%20%E2%80%A2%20Applied%20AI%20%E2%80%A2%20Product%20Engineering&descAlignY=63&descSize=16&descColor=E0E7FF" width="100%" alt="Netal Gupta — Full-stack development, applied AI and product engineering" />
 
 <a href="https://github.com/netalgupta">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=D4FF3D&center=true&vCenter=true&width=640&lines=Building+useful+products+with+software%2C+data+%26+AI;Next.js+%C2%B7+TypeScript+%C2%B7+Firebase+%C2%B7+PostgreSQL;Hackathon+builder+%C2%B7+Creative+Head+%40+KJSSE+ACM;Open+to+internships+in+SWE+%C2%B7+AI+%C2%B7+Product+Engineering" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=640&lines=Building+useful+products+with+software%2C+data+%26+AI;Next.js+%C2%B7+TypeScript+%C2%B7+Firebase+%C2%B7+PostgreSQL;Hackathon+builder+%C2%B7+Creative+Head+%40+KJSSE+ACM;Open+to+internships+in+SWE+%C2%B7+AI+%C2%B7+Product+Engineering" alt="Typing animation" />
 </a>
 
 <br /><br />
 
-<a href="https://linkedin.com/in/netalgupta"><img src="https://img.shields.io/badge/LinkedIn-Connect-1F2937?style=for-the-badge&logo=linkedin&logoColor=D4FF3D" alt="LinkedIn" /></a>
-<a href="mailto:netal.gupta@somaiya.edu"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-1F2937?style=for-the-badge&logo=gmail&logoColor=D4FF3D" alt="Email" /></a>
-<a href="https://github.com/netalgupta?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-1F2937?style=for-the-badge&logo=github&logoColor=D4FF3D" alt="Repositories" /></a>
+<a href="https://netalportfolio.xyz"><img src="https://img.shields.io/badge/Portfolio-Visit-4C1D95?style=for-the-badge&logo=googlechrome&logoColor=E0E7FF" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/netalgupta"><img src="https://img.shields.io/badge/LinkedIn-Connect-5B21B6?style=for-the-badge&logo=linkedin&logoColor=E0E7FF" alt="LinkedIn" /></a>
+<a href="mailto:netal.gupta@somaiya.edu"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-0E7490?style=for-the-badge&logo=gmail&logoColor=E0F2FE" alt="Email" /></a>
+<a href="https://github.com/netalgupta?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-155E75?style=for-the-badge&logo=github&logoColor=E0F2FE" alt="Repositories" /></a>
 
 </div>
 
@@ -35,60 +36,52 @@ I'm a third-year **B.Tech student in Computer Science & Business Systems at KJ S
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Aryan-lomte05/SIH26117-Sovereign-Workbench">
-      </a>
       <h3>🛢️ Sovereign AI Workbench</h3>
       <p>An offline, multi-model AI workbench built for a refinery use case, with a knowledge graph explorer, document source previews, agent reasoning streams, and retrieval observability.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-1F2937?style=flat-square&logo=react&logoColor=D4FF3D" alt="React" />
-        <img src="https://img.shields.io/badge/FastAPI-1F2937?style=flat-square&logo=fastapi&logoColor=D4FF3D" alt="FastAPI" />
-        <img src="https://img.shields.io/badge/LangGraph-1F2937?style=flat-square&logoColor=D4FF3D" alt="LangGraph" />
-        <img src="https://img.shields.io/badge/Neo4j-1F2937?style=flat-square&logo=neo4j&logoColor=D4FF3D" alt="Neo4j" />
-        <img src="https://img.shields.io/badge/FAISS-1F2937?style=flat-square&logoColor=D4FF3D" alt="FAISS" />
+        <img src="https://img.shields.io/badge/React-312E81?style=flat-square&logo=react&logoColor=C4B5FD" alt="React" />
+        <img src="https://img.shields.io/badge/FastAPI-312E81?style=flat-square&logo=fastapi&logoColor=C4B5FD" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/LangGraph-312E81?style=flat-square&logoColor=C4B5FD" alt="LangGraph" />
+        <img src="https://img.shields.io/badge/Neo4j-312E81?style=flat-square&logo=neo4j&logoColor=C4B5FD" alt="Neo4j" />
+        <img src="https://img.shields.io/badge/FAISS-312E81?style=flat-square&logoColor=C4B5FD" alt="FAISS" />
       </p>
       <a href="https://github.com/Aryan-lomte05/SIH26117-Sovereign-Workbench"><b>View repository →</b></a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Aryan-lomte05/Varuna">
-      </a>
       <h3>🌊 VARUNA</h3>
       <p>An ocean and marine biodiversity platform for exploring ARGO float positions, species records, and environmental alerts through interactive geospatial visualisations.</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-1F2937?style=flat-square&logo=nextdotjs&logoColor=D4FF3D" alt="Next.js" />
-        <img src="https://img.shields.io/badge/Deck.gl-1F2937?style=flat-square&logoColor=D4FF3D" alt="Deck.gl" />
-        <img src="https://img.shields.io/badge/FastAPI-1F2937?style=flat-square&logo=fastapi&logoColor=D4FF3D" alt="FastAPI" />
-        <img src="https://img.shields.io/badge/PostgreSQL-1F2937?style=flat-square&logo=postgresql&logoColor=D4FF3D" alt="PostgreSQL" />
-        <img src="https://img.shields.io/badge/PostGIS-1F2937?style=flat-square&logoColor=D4FF3D" alt="PostGIS" />
+        <img src="https://img.shields.io/badge/Next.js-312E81?style=flat-square&logo=nextdotjs&logoColor=C4B5FD" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Deck.gl-312E81?style=flat-square&logoColor=C4B5FD" alt="Deck.gl" />
+        <img src="https://img.shields.io/badge/FastAPI-312E81?style=flat-square&logo=fastapi&logoColor=C4B5FD" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/PostgreSQL-312E81?style=flat-square&logo=postgresql&logoColor=C4B5FD" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/PostGIS-312E81?style=flat-square&logoColor=C4B5FD" alt="PostGIS" />
       </p>
       <a href="https://github.com/Aryan-lomte05/Varuna"><b>View repository →</b></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://snack-alzheimer-1.onrender.com/">
-      </a>
       <h3>🧡 SaathiCare</h3>
       <p>A multilingual AI companion for people with Alzheimer's, with voice interaction and a QR-based emergency system that shares live location with caregivers.</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-1F2937?style=flat-square&logo=nextdotjs&logoColor=D4FF3D" alt="Next.js" />
-        <img src="https://img.shields.io/badge/TypeScript-1F2937?style=flat-square&logo=typescript&logoColor=D4FF3D" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Gemini%20API-1F2937?style=flat-square&logo=googlegemini&logoColor=D4FF3D" alt="Gemini API" />
-        <img src="https://img.shields.io/badge/SQLite-1F2937?style=flat-square&logo=sqlite&logoColor=D4FF3D" alt="SQLite" />
-        <img src="https://img.shields.io/badge/JWT-1F2937?style=flat-square&logo=jsonwebtokens&logoColor=D4FF3D" alt="JWT" />
+        <img src="https://img.shields.io/badge/Next.js-312E81?style=flat-square&logo=nextdotjs&logoColor=C4B5FD" alt="Next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-312E81?style=flat-square&logo=typescript&logoColor=C4B5FD" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Gemini%20API-312E81?style=flat-square&logo=googlegemini&logoColor=C4B5FD" alt="Gemini API" />
+        <img src="https://img.shields.io/badge/SQLite-312E81?style=flat-square&logo=sqlite&logoColor=C4B5FD" alt="SQLite" />
+        <img src="https://img.shields.io/badge/JWT-312E81?style=flat-square&logo=jsonwebtokens&logoColor=C4B5FD" alt="JWT" />
       </p>
       <a href="https://snack-alzheimer-1.onrender.com/"><b>Live demo →</b></a>
       &nbsp;·&nbsp;
       <a href="https://github.com/netalgupta/Snack-Alzheimer"><b>Repository →</b></a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://cptracker-gdg.vercel.app/">
-      </a>
       <h3>🏆 AI Competitive Programming Tracker</h3>
       <p>A practice platform with AI-generated feedback on logic and edge cases, follow-up questions, Google sign-in, and a live leaderboard.</p>
       <p>
-        <img src="https://img.shields.io/badge/Firebase-1F2937?style=flat-square&logo=firebase&logoColor=D4FF3D" alt="Firebase" />
-        <img src="https://img.shields.io/badge/Google%20Auth-1F2937?style=flat-square&logo=google&logoColor=D4FF3D" alt="Google Auth" />
-        <img src="https://img.shields.io/badge/Gemini%20API-1F2937?style=flat-square&logo=googlegemini&logoColor=D4FF3D" alt="Gemini API" />
+        <img src="https://img.shields.io/badge/Firebase-312E81?style=flat-square&logo=firebase&logoColor=C4B5FD" alt="Firebase" />
+        <img src="https://img.shields.io/badge/Google%20Auth-312E81?style=flat-square&logo=google&logoColor=C4B5FD" alt="Google Auth" />
+        <img src="https://img.shields.io/badge/Gemini%20API-312E81?style=flat-square&logo=googlegemini&logoColor=C4B5FD" alt="Gemini API" />
       </p>
       <a href="https://cptracker-gdg.vercel.app/"><b>Live demo →</b></a>
       &nbsp;·&nbsp;
@@ -147,10 +140,7 @@ I'm a third-year **B.Tech student in Computer Science & Business Systems at KJ S
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=netalgupta&show_icons=true&hide_border=false&bg_color=111827&title_color=D4FF3D&text_color=E5E7EB&icon_color=D4FF3D&border_color=1F2937&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netalgupta&layout=compact&langs_count=6&bg_color=111827&title_color=D4FF3D&text_color=E5E7EB&border_color=1F2937" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=netalgupta&background=111827&ring=D4FF3D&fire=D4FF3D&currStreakLabel=D4FF3D&sideLabels=E5E7EB&currStreakNum=E5E7EB&sideNums=E5E7EB&dates=9CA3AF&stroke=1F2937&border=1F2937" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=netalgupta&background=0D1117&ring=8B5CF6&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=4C1D95&border=4C1D95" alt="GitHub streak" />
 
 </div>
 
@@ -164,13 +154,13 @@ As **Creative Head of KJSSE ACM**, I lead creative direction, content, and team 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,100:111827&height=110&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E7490,50:5B21B6,100:4C1D95&height=110&section=footer" width="100%" alt="" />
 
 <sub>Thanks for stopping by. If something here caught your eye, I'd love to hear from you.</sub>
 
 <br /><br />
 
-<a href="netalportfolio.xyz">Portfolio</a>
+<a href="https://netalportfolio.xyz">Portfolio</a>
 &nbsp;·&nbsp;
 <a href="https://linkedin.com/in/netalgupta">LinkedIn</a>
 &nbsp;·&nbsp;
