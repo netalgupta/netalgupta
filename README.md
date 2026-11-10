@@ -93,28 +93,6 @@
       <a href="https://github.com/netalgupta/Snack-Alzheimer"><b>Repository →</b></a>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏆 AI Competitive Programming Tracker</h3>
-      <p><b>GDG Hackathon · Top 6.</b> A practice platform with LLM-based code evaluation: AI feedback on logic and edge cases, Google sign-in and a live leaderboard.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Firebase-312E81?style=flat-square&logo=firebase&logoColor=C4B5FD" alt="Firebase" />
-        <img src="https://img.shields.io/badge/Google%20Auth-312E81?style=flat-square&logo=google&logoColor=C4B5FD" alt="Google Auth" />
-        <img src="https://img.shields.io/badge/Gemini-312E81?style=flat-square&logo=googlegemini&logoColor=C4B5FD" alt="Gemini" />
-      </p>
-      <a href="https://cptracker-gdg.vercel.app/"><b>Live demo →</b></a>
-      &nbsp;·&nbsp;
-      <a href="https://github.com/netalgupta/All-In_CodeEvaluator_GDG"><b>Repository →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📍 HackTrack</h3>
-      <p><b>Nexathon · Top 6.</b> A hackathon-tracking platform built around facial recognition and geo-fencing.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Face%20Recognition-312E81?style=flat-square&logoColor=C4B5FD" alt="Face recognition" />
-        <img src="https://img.shields.io/badge/Geo--fencing-312E81?style=flat-square&logoColor=C4B5FD" alt="Geo-fencing" />
-      </p>
-    </td>
-  </tr>
 </table>
 
 <br />
