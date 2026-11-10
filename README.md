@@ -154,8 +154,6 @@ As **Creative Head of KJSSE ACM**, I own the chapter's visual identity, from cou
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=netalgupta&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" alt="Top languages" />
-
 </div>
 
 <br />
