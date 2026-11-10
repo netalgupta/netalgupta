@@ -1,33 +1,60 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:5B21B6,100:0E7490&height=200&section=header&text=NETAL%20GUPTA&fontSize=56&fontColor=FFFFFF&fontAlignY=40&desc=Full-Stack%20Development%20%E2%80%A2%20Applied%20AI%20%E2%80%A2%20Product%20Engineering&descAlignY=63&descSize=16&descColor=E0E7FF" width="100%" alt="Netal Gupta — Full-stack development, applied AI and product engineering" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:5B21B6,100:0E7490&height=220&section=header&text=NETAL%20GUPTA&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=I%20build%20AI%20products%20end-to-end%20%E2%80%94%20from%20the%20model%20to%20the%20pixels&descAlignY=62&descSize=17&descColor=E0E7FF" width="100%" alt="Netal Gupta — I build AI products end-to-end, from the model to the pixels" />
 
 <a href="https://github.com/netalgupta">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=640&lines=Building+useful+products+with+software%2C+data+%26+AI;Next.js+%C2%B7+TypeScript+%C2%B7+Firebase+%C2%B7+PostgreSQL;Hackathon+builder+%C2%B7+Creative+Head+%40+KJSSE+ACM;Open+to+internships+in+SWE+%C2%B7+AI+%C2%B7+Product+Engineering" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=720&lines=Top+12+nationally+at+Smart+India+Hackathon;ML+Intern+%C2%B7+Full-stack+engineer+%C2%B7+Creative+Head;9.8+SGPA+%C2%B7+8%2B+products+built+end-to-end;Offline+AI+%C2%B7+Production+backends+%C2%B7+Design+that+ships" alt="Typing animation" />
 </a>
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20INTERNSHIPS-22C55E?style=for-the-badge&labelColor=0F172A" alt="Open to internships" />
+<img src="https://img.shields.io/badge/ROLES-SWE%20%C2%B7%20AI%20%C2%B7%20PRODUCT%20ENGINEERING-8B5CF6?style=for-the-badge&labelColor=0F172A" alt="Target roles" />
 
 <br /><br />
 
 <a href="https://netalportfolio.xyz"><img src="https://img.shields.io/badge/Portfolio-Visit-4C1D95?style=for-the-badge&logo=googlechrome&logoColor=E0E7FF" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/netalgupta"><img src="https://img.shields.io/badge/LinkedIn-Connect-5B21B6?style=for-the-badge&logo=linkedin&logoColor=E0E7FF" alt="LinkedIn" /></a>
-<a href="mailto:netal.gupta@somaiya.edu"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-0E7490?style=for-the-badge&logo=gmail&logoColor=E0F2FE" alt="Email" /></a>
-<a href="https://github.com/netalgupta?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-155E75?style=for-the-badge&logo=github&logoColor=E0F2FE" alt="Repositories" /></a>
+<a href="mailto:netal.gupta@somaiya.edu"><img src="https://img.shields.io/badge/Email-Hire%20me-0E7490?style=for-the-badge&logo=gmail&logoColor=E0F2FE" alt="Email" /></a>
 
 </div>
 
 <br />
 
-## 👋 About me
-
-I'm a third-year **B.Tech student in Computer Science & Business Systems at KJ Somaiya College of Engineering**. I like working across the whole product lifecycle: understanding a real problem, designing the experience, building it, and shipping something people can actually open and use.
+## ⚡ The 30-second version
 
 | | |
 |:--|:--|
-| 🎓 **Studying** | B.Tech CSBS · KJ Somaiya College of Engineering (9.8 SGPA) |
-| 🧠 **Working on** | Virtual try-on and fit-intelligence systems as an ML Intern at Inhouse |
-| 🎨 **Leading** | Creative Head, KJSSE ACM Student Chapter |
-| 🔍 **Looking for** | Internships in software engineering, AI development, or product engineering |
-| 🛠️ **Core stack** | Next.js · TypeScript · Firebase · PostgreSQL · Gemini API |
+| **What I am** | A third-year CSBS engineer who ships complete products: backend, AI, interface, and the story around them. |
+| **What I've proven** | **Top 12** at Smart India Hackathon · **2nd of 90** selected teams in the college round · **Top 6** at GDG AfterMath and Nexathon · team lead at ISRO's Bharatiya Antariksh Hackathon. |
+| **Where I'm working now** | ML Intern at **Inhouse**, building virtual try-on and fit-intelligence systems. |
+| **What sets me apart** | I pair engineering depth (concurrency, offline AI, retrieval) with real design and communication skills. I lead a creative team, not just a codebase. |
+| **What I'm looking for** | Internships in **software engineering, AI development, or product engineering**. |
+
+<br />
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="20%"><h1>9.8</h1><sub><b>SGPA</b><br/>B.Tech CSBS, KJSCE</sub></td>
+    <td align="center" width="20%"><h1>Top 12</h1><sub><b>Smart India Hackathon</b><br/>national finals</sub></td>
+    <td align="center" width="20%"><h1>8+</h1><sub><b>products built</b><br/>end-to-end</sub></td>
+    <td align="center" width="20%"><h1>50.8K+</h1><sub><b>Instagram reach</b><br/>chapter analytics</sub></td>
+    <td align="center" width="20%"><h1>22K</h1><sub><b>views</b><br/>top Reel</sub></td>
+  </tr>
+</table>
+
+</div>
+
+<br />
+
+## 💼 Experience
+
+| Role | Where | What I do |
+|:--|:--|:--|
+| **ML Intern** | **Inhouse** | Working on virtual try-on and fit-intelligence systems. |
+| **Creative Head** · Jul 2026 – present | **KJSSE ACM Student Chapter** | Own the chapter's creative direction and content, lead the second-year members of the council, and design merch for the entire council. Previously on the PR team (2024–25). |
 
 <br />
 
@@ -37,7 +64,7 @@ I'm a third-year **B.Tech student in Computer Science & Business Systems at KJ S
   <tr>
     <td width="50%" valign="top">
       <h3>🛢️ Sovereign AI Workbench</h3>
-      <p>An offline, multi-model AI workbench built for a refinery use case, with a knowledge graph explorer, document source previews, agent reasoning streams, and retrieval observability.</p>
+      <p><b>Offline, multi-model AI for a refinery.</b> Knowledge-graph explorer, document source previews, live agent reasoning streams, and retrieval observability, so engineers can see <i>why</i> the AI answered what it did.</p>
       <p>
         <img src="https://img.shields.io/badge/React-312E81?style=flat-square&logo=react&logoColor=C4B5FD" alt="React" />
         <img src="https://img.shields.io/badge/FastAPI-312E81?style=flat-square&logo=fastapi&logoColor=C4B5FD" alt="FastAPI" />
@@ -49,7 +76,7 @@ I'm a third-year **B.Tech student in Computer Science & Business Systems at KJ S
     </td>
     <td width="50%" valign="top">
       <h3>🌊 VARUNA</h3>
-      <p>An ocean and marine biodiversity platform for exploring ARGO float positions, species records, and environmental alerts through interactive geospatial visualisations.</p>
+      <p><b>Smart India Hackathon · Ministry of Earth Sciences.</b> One platform bridging INCOIS and CMLRE ocean and marine biodiversity data, with ARGO float tracking, species records and environmental alerts on interactive geospatial maps.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-312E81?style=flat-square&logo=nextdotjs&logoColor=C4B5FD" alt="Next.js" />
         <img src="https://img.shields.io/badge/Deck.gl-312E81?style=flat-square&logoColor=C4B5FD" alt="Deck.gl" />
@@ -63,7 +90,7 @@ I'm a third-year **B.Tech student in Computer Science & Business Systems at KJ S
   <tr>
     <td width="50%" valign="top">
       <h3>🧡 SaathiCare</h3>
-      <p>A multilingual AI companion for people with Alzheimer's, with voice interaction and a QR-based emergency system that shares live location with caregivers.</p>
+      <p><b>A multilingual AI companion for people with Alzheimer's.</b> Voice-first interaction, plus a QR-based emergency system that shares live location with caregivers the moment someone is found.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-312E81?style=flat-square&logo=nextdotjs&logoColor=C4B5FD" alt="Next.js" />
         <img src="https://img.shields.io/badge/TypeScript-312E81?style=flat-square&logo=typescript&logoColor=C4B5FD" alt="TypeScript" />
@@ -77,7 +104,7 @@ I'm a third-year **B.Tech student in Computer Science & Business Systems at KJ S
     </td>
     <td width="50%" valign="top">
       <h3>🏆 AI Competitive Programming Tracker</h3>
-      <p>A practice platform with AI-generated feedback on logic and edge cases, follow-up questions, Google sign-in, and a live leaderboard.</p>
+      <p><b>Practice that explains itself.</b> AI feedback on logic and edge cases, adaptive follow-up questions, Google sign-in and a live leaderboard. Built for the GDG hackathon.</p>
       <p>
         <img src="https://img.shields.io/badge/Firebase-312E81?style=flat-square&logo=firebase&logoColor=C4B5FD" alt="Firebase" />
         <img src="https://img.shields.io/badge/Google%20Auth-312E81?style=flat-square&logo=google&logoColor=C4B5FD" alt="Google Auth" />
@@ -90,7 +117,28 @@ I'm a third-year **B.Tech student in Computer Science & Business Systems at KJ S
   </tr>
 </table>
 
-<p align="right"><a href="https://github.com/netalgupta?tab=repositories">Explore all repositories →</a></p>
+### 🔧 Also built
+
+| Project | What it shows |
+|:--|:--|
+| **Prowider** · lead distribution system | Production-grade backend: **PostgreSQL advisory locking**, round-robin allocation and **idempotent webhook handling**, built for a founding-engineer assignment. |
+| **Peblo** · AI notes app | Full-stack with FastAPI + Next.js, Anthropic integration, JWT auth and auto-save. |
+| **Trinethra** · supervisor feedback analyzer | Runs on a **local Ollama LLM**, with a deliberation panel designed to counter automation bias. |
+| **Mock Interview Practice Tool** | Client project in Python with **offline transcription** (faster-whisper). |
+| **TrueFit AI** · virtual try-on | Fit intelligence using pose-estimation body measurements, conversational styling and body-diverse fairness evaluation. |
+| **EV Battery Thermal Cooling** | AI-based thermal detection and personalised cooling concept for EV batteries. |
+
+<br />
+
+## 🧠 How I build
+
+| Principle | Where it shows up |
+|:--|:--|
+| **Reliable under pressure** | Prowider's advisory locks and idempotent webhooks: no double-assigned leads, no duplicate events. |
+| **AI you can trust and audit** | Sovereign Workbench's retrieval observability and reasoning streams. Trinethra's deliberation panel against automation bias. |
+| **Private by design** | Offline and local-first models (Sovereign Workbench, Trinethra, the interview tool) for data that can't leave the building. |
+| **Built for real people** | SaathiCare's multilingual voice UX for patients. TrueFit's fairness evaluation across diverse body types. |
+| **Product + polish** | I don't hand off a prototype. I ship a live demo, a clean UI and a pitch deck people want to read. |
 
 <br />
 
@@ -98,11 +146,42 @@ I'm a third-year **B.Tech student in Computer Science & Business Systems at KJ S
 
 | Competition | Result |
 |:--|:--|
-| **Smart India Hackathon 2025** | Top 12 |
-| **GDG Hackathon: AfterMath** | Top 6 |
-| **Nexathon** | Top 6 |
-| **Smart India Hackathon 2026: Internal Round** | Ranked **2nd**, one of 90 teams selected from 150 |
-| **Indradhanu: International Grand Challenge** | Round 1 cleared |
+| **Smart India Hackathon 2025** | 🥇 **Top 12 nationally** |
+| **Smart India Hackathon 2026 · internal round** | 🥈 **Ranked 2nd**, one of 90 teams selected from 150 |
+| **GDG Hackathon: AfterMath** | **Top 6** |
+| **Nexathon** | **Top 6** |
+| **ISRO Bharatiya Antariksh Hackathon 2026** | **Team lead**, Code Antariksh: satellite-based surface AQI and HCHO hotspot identification |
+| **Indradhanu: International Grand Challenge** | **Round 1 cleared** |
+
+<br />
+
+## 🎨 The creative side
+
+Most engineers can't design and most designers can't ship. I do both.
+
+As **Creative Head of KJSSE ACM**, I direct the chapter's visual identity and content: council merch, event posters and carousels, and Instagram Reels. Under that direction the chapter's Instagram analytics crossed **50.8K+**, with a top Reel at **22K views**. I also design for other communities, including a Harry Potter-themed Datathon 2026 poster and an Alumni Cell carousel.
+
+<br />
+
+## 🧰 Technical toolkit
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,dart,c&theme=dark" alt="Languages" />
+<br />
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,fastapi,firebase,postgres,sqlite,neo4j&theme=dark" alt="Frameworks and data" />
+<br />
+<img src="https://skillicons.dev/icons?i=pytorch,opencv,git,docker,figma&theme=dark" alt="AI and tools" />
+
+</div>
+
+| Area | Technologies |
+|:--|:--|
+| **Languages** | Python, Java, JavaScript, TypeScript, Dart, C |
+| **Frontend** | React, Next.js, Flutter, Deck.gl |
+| **Backend & data** | FastAPI, Firebase, PostgreSQL, PostGIS, SQLite, Neo4j |
+| **AI & ML** | Gemini API, LangGraph, FAISS, Ollama, PyTorch, OpenCV, faster-whisper |
+| **Tools & design** | Git, Docker, Figma, Canva |
 
 <br />
 
@@ -114,58 +193,33 @@ I'm a third-year **B.Tech student in Computer Science & Business Systems at KJ S
 
 <br />
 
-## 🧰 Technical toolkit
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,dart,c&theme=dark" alt="Languages" />
-<br />
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,fastapi,firebase,postgres,sqlite&theme=dark" alt="Frameworks and data" />
-<br />
-<img src="https://skillicons.dev/icons?i=pytorch,opencv,git,docker,figma&theme=dark" alt="AI and tools" />
-
-</div>
-
-| Area | Technologies |
-|:--|:--|
-| **Languages** | Python, Java, JavaScript, TypeScript, Dart, C |
-| **Frontend** | React, Next.js, Flutter |
-| **Backend & data** | FastAPI, Firebase, PostgreSQL, PostGIS, SQLite |
-| **AI & ML** | Gemini API, LangGraph, FAISS, PyTorch, OpenCV |
-| **Tools & design** | Git, Docker, Figma, Canva |
-
-<br />
-
 ## 📊 GitHub activity
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=netalgupta&background=0D1117&ring=8B5CF6&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=4C1D95&border=4C1D95" alt="GitHub streak" />
 
-</div>
-
 <br />
 
-## 🎨 Beyond the code
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=netalgupta&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" alt="Top languages" />
 
-As **Creative Head of KJSSE ACM**, I lead creative direction, content, and team collaboration. During my tenure the chapter's Instagram analytics reached **50.8K+**, with a top Reel crossing **22K views**.
+</div>
 
 <br />
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E7490,50:5B21B6,100:4C1D95&height=110&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E7490,50:5B21B6,100:4C1D95&height=140&section=footer&text=Let%27s%20build%20something%20great&fontSize=26&fontColor=FFFFFF&fontAlignY=62" width="100%" alt="" />
 
-<sub>Thanks for stopping by. If something here caught your eye, I'd love to hear from you.</sub>
+**Hiring for software engineering, AI, or product engineering internships?**
+I'd love to talk.
 
-<br /><br />
-
-<a href="https://netalportfolio.xyz">Portfolio</a>
+<a href="mailto:netal.gupta@somaiya.edu">Email</a>
 &nbsp;·&nbsp;
 <a href="https://linkedin.com/in/netalgupta">LinkedIn</a>
 &nbsp;·&nbsp;
-<a href="https://github.com/netalgupta">GitHub</a>
+<a href="https://netalportfolio.xyz">Portfolio</a>
 &nbsp;·&nbsp;
-<a href="mailto:netal.gupta@somaiya.edu">Email</a>
+<a href="https://github.com/netalgupta?tab=repositories">All repositories</a>
 
 </div>
